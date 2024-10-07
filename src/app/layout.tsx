@@ -4,19 +4,19 @@ import "./globals.css";
 import Nav from "@/app/components/nav";
 
 const avertaRegular = localFont({
-  src: "/fonts/Averta-Regular.otf",
+  src: "../fonts/Averta-Regular.otf",
   variable: "--font-averta-regular",
   weight: "400",
 });
 
 const avertaExtraBold = localFont({
-  src: "/fonts/Averta-ExtraBold.otf",
+  src: "../fonts/Averta-ExtraBold.otf",
   variable: "--font-averta-extrabold",
   weight: "800",
 });
 
 const noeDisplayBold = localFont({
-  src: "/fonts/NoeDisplay-Bold.ttf",
+  src: "../fonts/NoeDisplay-Bold.ttf",
   variable: "--font-noe-display-bold",
   weight: "700",
 });
