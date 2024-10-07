@@ -1,0 +1,541 @@
+[
+    {
+        "nome": "Barresa",
+        "descrizione": "Lentini (Siracusa)",
+        "image": "/images/villas/sicilyvilla.jpg",  
+        "tipologia": [
+            "Large",
+            "Couples"
+        ],
+        "esperienze": [
+            "Cooking Experience",
+            "Outdoor Adventures",
+            "Cultural Tours"
+        ],
+        "location": "Ovest Sicilia",
+        "date": {
+            "data_inizio": "2025-04-19",
+            "data_fine": "2025-06-16"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 3,
+            "neonati": 0,
+            "bagni": 3
+        },
+        "prezzo": 1506
+    },
+    {
+        "nome": "Eric Schmidt",
+        "descrizione": "Door southern many state night report he.",
+        "image": "/images/villas/villa-aegusa.jpg",  
+        "tipologia": [
+            "Large"
+        ],
+        "esperienze": [
+            "Wine Tasting",
+            "Cultural Tours",
+            "Beach Activities",
+            "Cooking Experience"
+        ],
+        "location": "Sud Sicilia",
+        "date": {
+            "data_inizio": "2025-03-18",
+            "data_fine": "2025-07-20"
+        },
+        "capacita": {
+            "adulti": 6,
+            "bambini": 2,
+            "neonati": 2,
+            "bagni": 5
+        },
+        "prezzo": 3849
+    },
+    {
+        "nome": "Justin Carter",
+        "descrizione": "Loss establish health leader.",
+        "image": "/images/villas/villa-aliga.jpg",  
+        "tipologia": [
+            "Pool",
+            "Family"
+        ],
+        "esperienze": [
+            "Cooking Experience",
+            "Cultural Tours",
+            "Beach Activities"
+        ],
+        "location": "Ovest Sicilia",
+        "date": {
+            "data_inizio": "2025-05-12",
+            "data_fine": "2025-07-09"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 0,
+            "neonati": 0,
+            "bagni": 3
+        },
+        "prezzo": 1180
+    },
+    {
+        "nome": "Jose Marks",
+        "descrizione": "Property no maybe everything.",
+        "image": "/images/villas/villa-anticascuderia.jpg",  
+        "tipologia": [
+            "Family",
+            "Seaview",
+            "Couples",
+            "Luxury",
+            "Pool"
+        ],
+        "esperienze": [
+            "Cultural Tours",
+            "Cooking Experience",
+            "Beach Activities",
+            "Wine Tasting"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-08-27",
+            "data_fine": "2025-09-26"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 3,
+            "neonati": 1,
+            "bagni": 4
+        },
+        "prezzo": 2352
+    },
+    {
+        "nome": "Sharon Moore",
+        "descrizione": "Thank Republican develop expert against may.",
+        "image": "/images/villas/villa-aura.jpg",  
+        "tipologia": [
+            "Large"
+        ],
+        "esperienze": [
+            "Outdoor Adventures"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-04-22",
+            "data_fine": "2025-06-29"
+        },
+        "capacita": {
+            "adulti": 5,
+            "bambini": 2,
+            "neonati": 0,
+            "bagni": 2
+        },
+        "prezzo": 1447
+    },
+    {
+        "nome": "Robert Garcia",
+        "descrizione": "Age travel local thank show.",
+        "image": "/images/villas/villa-capo-bianco.jpg",  
+        "tipologia": [
+            "Luxury",
+            "Seaview",
+            "Couples"
+        ],
+        "esperienze": [
+            "Cooking Experience",
+            "Beach Activities",
+            "Cultural Tours",
+            "Wine Tasting"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-09-03",
+            "data_fine": "2025-09-09"
+        },
+        "capacita": {
+            "adulti": 4,
+            "bambini": 3,
+            "neonati": 2,
+            "bagni": 2
+        },
+        "prezzo": 4936
+    },
+    {
+        "nome": "Jessica Washington",
+        "descrizione": "Security ask today kind ten.",
+        "image": "/images/villas/villa-del-conte.jpg",  
+        "tipologia": [
+            "Large",
+            "Seaview",
+            "Luxury",
+            "Pool",
+            "Couples",
+            "Family"
+        ],
+        "esperienze": [
+            "Cultural Tours"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-09-22",
+            "data_fine": "2025-09-28"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 2,
+            "neonati": 0,
+            "bagni": 4
+        },
+        "prezzo": 3542
+    },
+    {
+        "nome": "James Rodriguez",
+        "descrizione": "Now last already quality place style.",
+        "image": "/images/villas/villa-ferula-31.jpg",  
+        "tipologia": [
+            "Couples"
+        ],
+        "esperienze": [
+            "Beach Activities",
+            "Cooking Experience"
+        ],
+        "location": "Est Sicilia",
+        "date": {
+            "data_inizio": "2025-06-24",
+            "data_fine": "2025-07-30"
+        },
+        "capacita": {
+            "adulti": 5,
+            "bambini": 0,
+            "neonati": 1,
+            "bagni": 5
+        },
+        "prezzo": 1204
+    },
+    {
+        "nome": "Gary Smith",
+        "descrizione": "Up short bad light forward.",
+        "image": "/images/villas/villa-genoard-20.jpg",  
+        "tipologia": [
+            "Couples",
+            "Pool"
+        ],
+        "esperienze": [
+            "Wine Tasting",
+            "Cultural Tours",
+            "Beach Activities"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-08-07",
+            "data_fine": "2025-09-18"
+        },
+        "capacita": {
+            "adulti": 2,
+            "bambini": 1,
+            "neonati": 1,
+            "bagni": 4
+        },
+        "prezzo": 3634
+    },
+    {
+        "nome": "Brenda Rodriguez DVM",
+        "descrizione": "Move deep enjoy for tax reveal plant.",
+        "image": "/images/villas/villa-genoard.jpg",  
+        "tipologia": [
+            "Large",
+            "Luxury",
+            "Pool",
+            "Family",
+            "Couples"
+        ],
+        "esperienze": [
+            "Outdoor Adventures"
+        ],
+        "location": "Ovest Sicilia",
+        "date": {
+            "data_inizio": "2025-02-18",
+            "data_fine": "2025-08-28"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 2,
+            "neonati": 0,
+            "bagni": 5
+        },
+        "prezzo": 1152
+    },
+    {
+        "nome": "Derrick Evans",
+        "descrizione": "Three meet time various enjoy song wife my.",
+        "image": "/images/villas/villa-kiwi.jpg",  
+        "tipologia": [
+            "Family",
+            "Luxury",
+            "Couples"
+        ],
+        "esperienze": [
+            "Outdoor Adventures"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-04-24",
+            "data_fine": "2025-09-03"
+        },
+        "capacita": {
+            "adulti": 5,
+            "bambini": 4,
+            "neonati": 1,
+            "bagni": 3
+        },
+        "prezzo": 1414
+    },
+    {
+        "nome": "Diane Collins",
+        "descrizione": "Test magazine large east simply.",
+        "image": "/images/villas/villa-la-chicca.jpg",  
+        "tipologia": [
+            "Family",
+            "Large",
+            "Couples",
+            "Seaview"
+        ],
+        "esperienze": [
+            "Beach Activities",
+            "Cultural Tours",
+            "Cooking Experience",
+            "Outdoor Adventures"
+        ],
+        "location": "Nord Sicilia",
+        "date": {
+            "data_inizio": "2025-09-29",
+            "data_fine": "2025-09-29"
+        },
+        "capacita": {
+            "adulti": 2,
+            "bambini": 3,
+            "neonati": 2,
+            "bagni": 3
+        },
+        "prezzo": 2562
+    },
+    {
+        "nome": "Ashley Bradford",
+        "descrizione": "Section short see training consider may including.",
+        "image": "/images/villas/villa-le-giare-02.jpg",  
+        "tipologia": [
+            "Seaview",
+            "Couples",
+            "Pool",
+            "Family"
+        ],
+        "esperienze": [
+            "Wine Tasting",
+            "Beach Activities"
+        ],
+        "location": "Ovest Sicilia",
+        "date": {
+            "data_inizio": "2024-11-10",
+            "data_fine": "2025-06-03"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 2,
+            "neonati": 2,
+            "bagni": 5
+        },
+        "prezzo": 1029
+    },
+    {
+        "nome": "Jessica Estrada",
+        "descrizione": "Performance building really idea memory son.",
+        "image": "/images/villas/villa-le-giare.jpg",  
+        "tipologia": [
+            "Large",
+            "Seaview"
+        ],
+        "esperienze": [
+            "Cultural Tours",
+            "Wine Tasting"
+        ],
+        "location": "Est Sicilia",
+        "date": {
+            "data_inizio": "2025-03-05",
+            "data_fine": "2025-05-28"
+        },
+        "capacita": {
+            "adulti": 2,
+            "bambini": 4,
+            "neonati": 1,
+            "bagni": 5
+        },
+        "prezzo": 1478
+    },
+    {
+        "nome": "Daniel Ramsey",
+        "descrizione": "Well thought design defense trouble.",
+        "image": "/images/villas/villa-michelica-2.jpg",  
+        "tipologia": [
+            "Family",
+            "Couples",
+            "Pool",
+            "Luxury",
+            "Seaview",
+            "Large"
+        ],
+        "esperienze": [
+            "Beach Activities",
+            "Cooking Experience",
+            "Outdoor Adventures",
+            "Wine Tasting",
+            "Cultural Tours"
+        ],
+        "location": "Sud Sicilia",
+        "date": {
+            "data_inizio": "2024-11-17",
+            "data_fine": "2025-03-08"
+        },
+        "capacita": {
+            "adulti": 4,
+            "bambini": 4,
+            "neonati": 2,
+            "bagni": 5
+        },
+        "prezzo": 4412
+    },
+    {
+        "nome": "Courtney Brennan",
+        "descrizione": "Physical travel most.",
+        "image": "/images/villas/villa-michelica.jpg",  
+        "tipologia": [
+            "Large",
+            "Luxury",
+            "Family",
+            "Pool",
+            "Seaview"
+        ],
+        "esperienze": [
+            "Cultural Tours",
+            "Beach Activities",
+            "Wine Tasting"
+        ],
+        "location": "Sud Sicilia",
+        "date": {
+            "data_inizio": "2025-07-12",
+            "data_fine": "2025-08-15"
+        },
+        "capacita": {
+            "adulti": 1,
+            "bambini": 1,
+            "neonati": 0,
+            "bagni": 2
+        },
+        "prezzo": 2119
+    },
+    {
+        "nome": "Megan Matthews",
+        "descrizione": "Race table health cause simply amount role.",
+        "image": "/images/villas/villa-tasca-3.jpg",  
+        "tipologia": [
+            "Couples"
+        ],
+        "esperienze": [
+            "Outdoor Adventures",
+            "Cooking Experience"
+        ],
+        "location": "Est Sicilia",
+        "date": {
+            "data_inizio": "2025-09-02",
+            "data_fine": "2025-09-08"
+        },
+        "capacita": {
+            "adulti": 5,
+            "bambini": 3,
+            "neonati": 2,
+            "bagni": 4
+        },
+        "prezzo": 1186
+    },
+    {
+        "nome": "Jordan Baker",
+        "descrizione": "Hotel whom public offer bring similar degree.",
+        "image": "/images/villas/villa.jpg",  
+        "tipologia": [
+            "Family",
+            "Seaview",
+            "Large"
+        ],
+        "esperienze": [
+            "Cultural Tours",
+            "Cooking Experience",
+            "Wine Tasting",
+            "Beach Activities",
+            "Outdoor Adventures"
+        ],
+        "location": "Ovest Sicilia",
+        "date": {
+            "data_inizio": "2025-07-30",
+            "data_fine": "2025-09-30"
+        },
+        "capacita": {
+            "adulti": 5,
+            "bambini": 1,
+            "neonati": 2,
+            "bagni": 4
+        },
+        "prezzo": 1011
+    },
+    {
+        "nome": "Whitney Austin",
+        "descrizione": "Sort toward expect.",
+        "image": "/images/villas/sicilyvilla.jpg",  
+        "tipologia": [
+            "Large",
+            "Seaview",
+            "Family",
+            "Couples"
+        ],
+        "esperienze": [
+            "Cooking Experience",
+            "Cultural Tours",
+            "Outdoor Adventures"
+        ],
+        "location": "Est Sicilia",
+        "date": {
+            "data_inizio": "2025-02-04",
+            "data_fine": "2025-05-29"
+        },
+        "capacita": {
+            "adulti": 6,
+            "bambini": 2,
+            "neonati": 2,
+            "bagni": 5
+        },
+        "prezzo": 2974
+    },
+    {
+        "nome": "Kenneth Washington",
+        "descrizione": "International serious happen agreement establish use certainly.",
+        "image": "/images/villas/sicilyvilla.jpg",  
+        "tipologia": [
+            "Couples",
+            "Seaview",
+            "Pool",
+            "Family"
+        ],
+        "esperienze": [
+            "Beach Activities",
+            "Wine Tasting"
+        ],
+        "location": "Ovest Sicilia",
+        "date": {
+            "data_inizio": "2025-08-19",
+            "data_fine": "2025-10-05"
+        },
+        "capacita": {
+            "adulti": 3,
+            "bambini": 0,
+            "neonati": 1,
+            "bagni": 2
+        },
+        "prezzo": 1835
+    }
+]
